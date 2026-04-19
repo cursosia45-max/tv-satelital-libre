@@ -1,0 +1,266 @@
+#EXTM3U
+#EXTINF:-1, 01 - CANAL ENT FAMILY
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1, 02 - CANAL ENT CHANNEL
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1, 03 - CANAL ENERGEEK FAN
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1, 04 - CANAL ENERGEEK RETRO
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+#EXTINF:-1, 05 - MAX ANIME
+https://streamlov.alsolnet.com/maxanime/live/chunklist_w1775509376.m3u8
+#EXTINF:-1, 06 - CANAL TL +
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1, 07 - CANAL FANTASIA TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1, 08 - CANAL MAULE VISION
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8
+#EXTINF:-1, 09 - CANAL DREIKO VISION
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1, 10 - CANAL CREO TV
+https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=14756568
+#EXTINF:-1, 11 - CANAL AMERICA TV
+https://live-evg20.tv360.bitel.com.pe/7WvLeeTZY40nYo_5DSY4zw/1776696870/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
+#EXTINF:-1, 12 - CANAL LATINA TV
+https://live-evg20.tv360.bitel.com.pe/feOO0f8l1l4-xLFxC1-bQA/1776697029/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8
+#EXTINF:-1, 13 - CANAL GLOBAL TV
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_360p/chunks.m3u8
+#EXTINF:-1, 14 - CANAL FMH KIDS
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
+#EXTINF:-1, 15 - CANAL TV CHINCHA MAS
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+#EXTINF:-1, 16 - HUACHO TV
+https://live-evg18.tv360.bitel.com.pe/bitel/huacho/chunks.m3u8
+#EXTINF:-1, 17 - COSITEL TV
+https://live-evg18.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+#EXTINF:-1, 18 - DUNAS TV
+https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
+#EXTINF:-1, 19 - ECO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
+#EXTINF:-1, 20 - COSMOS TV
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
+#EXTINF:-1, 21 - GTV TV
+https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscoSRT/chunks.m3u8
+#EXTINF:-1, 22 - VIGIL TV
+https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
+#EXTINF:-1, 23 - CVN TV
+https://live-evg18.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
+#EXTINF:-1, 24 - HUANTA TV
+https://live-evg18.tv360.bitel.com.pe/bitel/huantatv/chunks.m3u8
+#EXTINF:-1, 25 - HOY PERU TV TV
+https://live-evg18.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+#EXTINF:-1, 26 - CNC TV
+https://live-evg18.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
+#EXTINF:-1, 27 - XTV TV
+https://live-evg11.tv360.bitel.com.pe/bitel/xtvplus/chunks.m3u8
+#EXTINF:-1, 28 - CTC CUSCO TV
+https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8
+#EXTINF:-1, 29 - TEVESUR TV
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/chunks.m3u8
+#EXTINF:-1, 30 - WAYRA TV
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+#EXTINF:-1, 31 - ANDES TV
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/chunks.m3u8
+#EXTINF:-1, 32 - TELECENTRO TV
+https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/chunks.m3u8
+#EXTINF:-1, 33 - SM CANAL 7 TV
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/chunks.m3u8
+#EXTINF:-1, 34 - SELVA TV
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8
+#EXTINF:-1, 35 - SUPER CANAL TV
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/chunks.m3u8
+#EXTINF:-1, 36 - TV MAR TV
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
+#EXTINF:-1, 37 - DUB TV
+https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
+#EXTINF:-1, 38 - VIA TARAPOTO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
+#EXTINF:-1, 39 - TARAPOTO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
+#EXTINF:-1, 40 - URANIO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
+#EXTINF:-1, 41 - UCAYALI TV
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
+#EXTINF:-1, 42 - TURBOMIX TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1, 43 - CANAL RED + TV
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/03.m3u8
+#EXTINF:-1, 44 - CANAL VIDA AL MAXIMO
+https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/chunks.m3u8
+#EXTINF:-1, 45 - CANAL PANTALLA CLASICA
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
+#EXTINF:-1, 46 - CANAL NOVA VISION
+https://live20.bozztv.com/akamaissh101/ssh101/novavision/chunks.m3u8
+#EXTINF:-1, 47 - CANAL CNC VALLEDUPAR
+https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/chunks.m3u8
+#EXTINF:-1, 48 - CANAL CINE STAR
+https://live20.bozztv.com/akamaissh101/ssh101/cinestarteve/chunks.m3u8
+#EXTINF:-1, 49 - CANAL RITMO X
+https://live20.bozztv.com/akamaissh101/ssh101/cedacopa16/chunks.m3u8
+#EXTINF:-1, 50 - CANAL MULTIVISION HD
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+#EXTINF:-1, 51 - CANAL 4 DEL GUAVIARE
+https://live20.bozztv.com/akamaissh101/ssh101/canal4sjg/chunks.m3u8
+#EXTINF:-1, 52 - CANAL PINOLERO TV
+https://live20.bozztv.com/akamaissh101/ssh101/jarethviva13/chunks.m3u8
+#EXTINF:-1, 53 - CANAL MBO CATAYI TV
+https://live20.bozztv.com/akamaissh101/ssh101/mbocayatyhd/chunks.m3u8
+#EXTINF:-1, 54 - CANAL 41 MTV HD
+https://live20.bozztv.com/akamaissh101/ssh101/mtvcanal41/chunks.m3u8
+#EXTINF:-1, 55 - CANAL EL TIEMPO TV
+https://live20.bozztv.com/akamaissh101/ssh101/eltiempotv/chunks.m3u8
+#EXTINF:-1, 56 - CANAL COMAYACAGUA TV
+https://live20.bozztv.com/akamaissh101/ssh101/canal40/chunks.m3u8
+#EXTINF:-1, 57 - CANAL CIUDAD MAGICA TV
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
+#EXTINF:-1, 58 - CANAL TELEBOLIVAR
+https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/chunks.m3u8
+#EXTINF:-1, 59 - CANAL SANTAMARIA TV
+https://live20.bozztv.com/akamaissh101/ssh101/santamariatv/chunks.m3u8
+#EXTINF:-1, 60 - CANAL PERUANISIMA TV
+https://live20.bozztv.com/akamaissh101/ssh101/peruan777/chunks.m3u8
+#EXTINF:-1, 61 - CANAL ANIME STATION
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+#EXTINF:-1, 62 - CANAL SELVATICA TV
+https://live20.bozztv.com/akamaissh101/ssh101/uca777/chunks.m3u8
+#EXTINF:-1, 63 - CANAL TELE Z MUSICAL
+https://live20.bozztv.com/akamaissh101/ssh101/tlzeta/chunks.m3u8
+#EXTINF:-1, 64 - CANAL MI CANAL MAGANGUE
+https://live20.bozztv.com/akamaissh101/ssh101/micanalcolombia/chunks.m3u8
+#EXTINF:-1, 65 - CANAL LA VOZ TUCUMAN
+https://live20.bozztv.com/akamaissh101/ssh101/lavoztuc/chunks.m3u8
+#EXTINF:-1, 66 - CANAL GLOBAL TV
+https://live20.bozztv.com/akamaissh101/ssh101/globaltv2020/chunks.m3u8
+#EXTINF:-1, 67 - CANAL BUZZ CHANNEL
+https://live20.bozztv.com/akamaissh101/ssh101/canalbuzz2026/chunks.m3u8
+#EXTINF:-1, 68 - CANAL BOOM
+https://live20.bozztv.com/akamaissh101/ssh101/boomixtv/chunks.m3u8
+#EXTINF:-1, 69 - CANAL TV EN LINEA DE CUSCO
+https://live20.bozztv.com/akamaissh101/ssh101/ucchullo/chunks.m3u8
+#EXTINF:-1, 70 - CANAL SAIKOO TV
+https://live20.bozztv.com/akamaissh101/ssh101/tv777lv/chunks.m3u8
+#EXTINF:-1, 71 - CANAL SUMA TV
+https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
+#EXTINF:-1, 72 - CANAL TV RETRO PALMARES
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1, 73 - CANAL TV COTUI
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/chunks.m3u8
+#EXTINF:-1, 74 - CANAL TELECAUQUENES
+https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/chunks.m3u8
+#EXTINF:-1, 75 - CANAL TARPUY TV
+https://live20.bozztv.com/akamaissh101/ssh101/tarpuy777/chunks.m3u8
+#EXTINF:-1, 76 - CANAL SULA TV
+https://live20.bozztv.com/akamaissh101/ssh101/sulatv/chunks.m3u8
+#EXTINF:-1, 77 - CANAL SANCRIS VISION
+https://live20.bozztv.com/akamaissh101/ssh101/sancrisvision/chunks.m3u8
+#EXTINF:-1, 78 - CANAL MASTER TV
+https://live20.bozztv.com/akamaissh101/ssh101/mastertvangra/chunks.m3u8
+#EXTINF:-1, 79 - CANAL MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/lamixtv/chunks.m3u8
+#EXTINF:-1, 80 - CANAL SUR TV PERU
+https://live20.bozztv.com/akamaissh101/ssh101/surtvchincha/chunks.m3u8
+#EXTINF:-1, 81 - CANAL WOW MOVIES
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
+#EXTINF:-1, 82 - CANAL TV OASIS
+https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/chunks.m3u8
+#EXTINF:-1, 83 - CANAL SIMPSONS
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+#EXTINF:-1, 84 - CANAL SM TV
+https://live20.bozztv.com/akamaissh101/ssh101/sanmanueltvhn/chunks.m3u8
+#EXTINF:-1, 85 - CANAL TV NOVA
+https://live20.bozztv.com/akamaissh101/ssh101/nova2026/chunks.m3u8
+#EXTINF:-1, 86 - CANAL BUENOS AIRES TV
+https://live20.bozztv.com/akamaissh101/ssh101/buenostv25/chunks.m3u8
+#EXTINF:-1, 87 - CANAL AIR TV
+https://live20.bozztv.com/akamaissh101/ssh101/airtvhn/chunks.m3u8
+#EXTINF:-1, 88 - CANAL ESPERANZA TV
+https://live20.bozztv.com/akamaissh101/ssh101/1273xonas/chunks.m3u8
+#EXTINF:-1, 89 - CANAL TELESANGIL
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/chunks.m3u8
+#EXTINF:-1, 90 - CANAL UNILANC
+https://live20.bozztv.com/akamaissh101/ssh101/unilan777/chunks.m3u8
+#EXTINF:-1, 91 - CANAL ADONAY TV
+https://live20.bozztv.com/akamaissh101/ssh101/adonaytv/chunks.m3u8
+#EXTINF:-1, 92 - CANAL CACHI TV
+https://live20.bozztv.com/akamaissh101/ssh101/tvcachi/chunks.m3u8
+#EXTINF:-1, 93 - CANAL 14 CODAZZI CESAR
+https://live20.bozztv.com/akamaissh101/ssh101/canal14codazzi/chunks.m3u8
+#EXTINF:-1, 94 - CANAL ACTION PRIME
+https://live20.bozztv.com/akamaissh101/ssh101/actionprimetv/chunks.m3u8
+#EXTINF:-1, 95 - CANAL 8 DIGITAL
+https://live20.bozztv.com/akamaissh101/ssh101/tvcnl8dtlhd/chunks.m3u8
+#EXTINF:-1, 96 - CANAL 10 COSTARICA
+https://live20.bozztv.com/akamaissh101/ssh101/tv10costarica/chunks.m3u8
+#EXTINF:-1, 97 - CANAL TELEQUINDIO
+https://live20.bozztv.com/akamaissh101/ssh101/telequindio/chunks.m3u8
+#EXTINF:-1, 98 - CANAL RETRO TV ONLINE
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+#EXTINF:-1, 99 - CANAL CAMBYRETA TV
+https://live20.bozztv.com/akamaissh101/ssh101/cambyretatv/chunks.m3u8
+#EXTINF:-1, 100 -CANAL APANINES TV
+https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
+#EXTINF:-1, 101 -CANAL TL + SANTA ANA
+https://live20.bozztv.com/akamaissh101/ssh101/votvsv214/chunks.m3u8
+#EXTINF:-1, 102 -CANAL LMS MEXICO
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
+#EXTINF:-1, 103 -CANAL LATINA NETWORK VEN
+https://live20.bozztv.com/akamaissh101/ssh101/radiolatinatv/chunks.m3u8
+#EXTINF:-1, 104 -CANAL L1 MAX 
+https://live20.bozztv.com/akamaissh101/ssh101/cinemas/chunks.m3u8
+#EXTINF:-1, 105 -CANAL VISION TV
+https://live20.bozztv.com/akamaissh101/ssh101/canalvisiontv/chunks.m3u8
+#EXTINF:-1, 106 -CANAL ALTERNATIVA TV
+https://live20.bozztv.com/akamaissh101/ssh101/alternativatvpe/chunks.m3u8
+#EXTINF:-1, 107 -CANAL TV3
+https://live20.bozztv.com/akamaissh101/ssh101/1234tv/chunks.m3u8
+#EXTINF:-1, 108 -CANAL ZTV AREQUIPA
+https://live20.bozztv.com/akamaissh101/ssh101/ztvarequipa/chunks.m3u8
+#EXTINF:-1, 109 -CANAL TELE MEDELLIN
+https://live20.bozztv.com/akamaissh101/ssh101/telemed2/chunks.m3u8
+#EXTINF:-1, 110 -CANAL RETRO MAGICO
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8
+#EXTINF:-1, 111 -CANAL OCHO MEXICO
+https://live20.bozztv.com/akamaissh101/ssh101/ochotv/chunks.m3u8
+#EXTINF:-1, 112 -CANAL AMERICAN TV
+https://live20.bozztv.com/akamaissh101/ssh101/americantv006/chunks.m3u8
+#EXTINF:-1, 113 -CANAL TELEBOCONO
+https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/chunks.m3u8
+#EXTINF:-1, 114 -CANAL TOTAL TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/totaltvhd/chunks.m3u8
+#EXTINF:-1, 115 -CANAL MG TV
+https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/chunks.m3u8
+#EXTINF:-1, 116 -CANAL 48 DE CHILE
+https://live20.bozztv.com/akamaissh101/ssh101/canal48/chunks.m3u8
+#EXTINF:-1, 117 -CANAL PRI TV
+https://live20.bozztv.com/akamaissh101/ssh101/tv1251master/chunks.m3u8
+#EXTINF:-1, 118 -CANAL MULTI TV
+https://live20.bozztv.com/akamaissh101/ssh101/multinoticias/chunks.m3u8
+#EXTINF:-1, 119 -CANAL SEGOVIANO TV
+https://live20.bozztv.com/akamaissh101/ssh101/segoviano104/chunks.m3u8
+#EXTINF:-1, 120 -CANAL PLANETA TV
+https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8
+#EXTINF:-1, 121 -CANAL SISTEMA 1 TV
+https://live20.bozztv.com/akamaissh101/ssh101/sistema1tv/chunks.m3u8
+#EXTINF:-1, 122 -CANAL MULTICANAL TV DE CALI
+https://live20.bozztv.com/akamaissh101/ssh101/multicanal/chunks.m3u8
+#EXTINF:-1, 123 -CANAL CONSTANZA TV
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1, 124 -CANAL 69 TV
+https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/chunks.m3u8
+#EXTINF:-1, 125 -CANAL GTV
+https://live20.bozztv.com/akamaissh101/ssh101/guadalupetv/chunks.m3u8
+#EXTINF:-1, 126 -CANAL 33 TV SAT
+https://live20.bozztv.com/akamaissh101/ssh101/canal33ayacucho/chunks.m3u8
+#EXTINF:-1, 127 -CANAL PUNTO TV
+https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
+#EXTINF:-1, 128 -CANAL IMPERIO TV
+https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8
+#EXTINF:-1, 129 -CANAL GRANDE TV
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/chunks.m3u8
+#EXTINF:-1, 129 -CANAL ULTRAHIT TV
+https://usmia02-edge.teveo.net/live/AeAAAgAuAAAJA1IAyADIUCAAAAAAAAAAAmnlOTYtrQyuAAAA/chunklist_w1445501409.m3u8
+
+
+
+
+
