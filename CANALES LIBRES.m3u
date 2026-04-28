@@ -315,3 +315,39 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=90gu4570
 #EXTINF:-1, 157 -CANAL MAGIC KIDS
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1, 158 -CANAL COSTA RICA CHANNEL
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1, 159 -CANAL LUNA 25 TV
+https://stream-us-east-1.getpublica.com/cl/260428d7oecsl5k5ic8joic7u0/1280x720_1500000_0_f.m3u8?i=1187_13013
+#EXTINF:-1, 160 -CANAL TV TRES
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 161 -CANAL VILLA TV
+https://inliveserver.com:1936/10016/10016/chunklist_w1207109281.m3u8
+#EXTINF:-1, 162 -CANAL INFINITA TV
+https://stream-us-east-1.getpublica.com/cl/260428d7oefou0n8obm66b02o0/1280x720_1500000_0_f.m3u8?i=1187_13001
+#EXTINF:-1, 163 -CANAL TELESIGLO TV
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 164 -CANAL TELEDOMINICANA TV
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1, 165 -CANAL STV 
+https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/chunklist_w1954918704.m3u8
+#EXTINF:-1, 166 -CANAL VTV32
+https://edge.livestreaminggroup.info/vtv32live/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 167 -CANAL TV HISPANIC
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1, 168 -CANAL MARKA TV
+https://5790d294af2dc.streamlock.net/markatv/markatv/chunklist_w319777112.m3u8
+#EXTINF:-1, 169 -CANAL MI TURNO TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1, 170 -CANAL NUEVA VISION 14 TV
+https://pacific.direcnode.com:3562/live/nuevavisionlive.m3u8
+#EXTINF:-1, 171 -CANAL TELE +
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1, 172 -CANAL ES TU TELE
+https://stream-us-east-1.getpublica.com/cl/260428d7oeocro370fjb9kfil0/1920x1080_4953537_0_f.m3u8?i=1187_12680
+#EXTINF:-1, 173 -CANAL MERLAVISION
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+#EXTINF:-1, 174 -CANAL IBCK TV
+https://somosnoticiasnetwork.com:3269/hybrid/play.m3u8
+
+
