@@ -297,6 +297,20 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
 #EXTINF:-1, 148 -CANAL BTV DIGITAL TV 
 https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/chunks.m3u8
-
-
+#EXTINF:-1, 149 -CANAL TURBION BOLIVIA TV 
+https://live20.bozztv.com/akamaissh101/ssh101/turbion/chunks.m3u8
+#EXTINF:-1, 150 -CANAL 9 CODAZZI TV 
+https://live20.bozztv.com/akamaissh101/ssh101/canal9cosespu/chunks.m3u8
+#EXTINF:-1, 151 -CANAL TUKUTUN TV
+https://live20.bozztv.com/akamaissh101/ssh101/kutukun/chunks.m3u8
+#EXTINF:-1, 152 -CANAL IMAGEN TV BOLIVIA
+https://live20.bozztv.com/akamaissh101/ssh101/imagentvpotosib/chunks.m3u8
+#EXTINF:-1, 153 -CANAL MONI TV PERU
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
+#EXTINF:-1, 154 -CANAL JM TV PERU
+https://live20.bozztv.com/akamaissh101/ssh101/studiojm/chunks.m3u8
+#EXTINF:-1, 155 -CANAL RETRO TOONS
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
+#EXTINF:-1, 156 -CANAL TELECLASICA
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=90gu4570
 
