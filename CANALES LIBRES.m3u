@@ -259,6 +259,29 @@ https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/chunks.m3u8
 #EXTINF:-1, 129 -CANAL ULTRAHIT TV
 https://usmia02-edge.teveo.net/live/AeAAAgAuAAAJA1IAyADIUCAAAAAAAAAAAmnlOTYtrQyuAAAA/chunklist_w1445501409.m3u8
+#EXTINF:-1, 130 -CANAL COMERCIO TV
+https://amg00082-amg00082c1-vivalivetv-worldwide-7555.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00082-tarima-comercio-vivalivetvworldwide/cb57381b6573628d84cb3d78d1f64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ace45c17893ea4b0014c962f42fa83439fd501b3d1865883178474f4159cc6f58ad112d18ce8598d06e627475b2d738d857787f64db7dd9f562c8e7d5a17741aeeb787ee5d79d566060edeba999972e804809f2c97613bb2169d5b927e8964a74cf5c759a1b9b8d707131fa8cd4d647dd38fc38ef23141d10c9190cced5f5dbad32b55629317b2482a2880c2c9018ac71993c44fefde5b3808ecb066bea29fa6b5c5e72f9f2adad7f5ea512824512132aa7c81bf52f60c8700c2a61a275d7250b48a50b6eab33402477faaa17df12c369c81f8e9bc0236de1277308252fc6b294def115351c07781f0546d9936358b3430fe2a59ea28ce9d1cd986f8c039169084ba28926effa535c1e20dbb68034c10bf8040352f7e58e0c2472e1546ee60bea0a0827307149e9ba794f276082b18347733a6c7bd03f1edd53b1164ad394c5251203bb727f356f225137a44a30bc09319668c10202effd55337305eb3f89da0a4f3f569904d25ae974a4785c4e3dc4967054191deae56f137467c735cf2770e218e262a8c6e08ab9ff4b361db886cea196f1171ccf3163b673aa3fdb5fae20fe45fecd33ab0978819a46d19ad24f75f90203ee4a9f869e8ec93d34e0295a443162793d667f67223d316da2f8dc03ab0da33504468101b93dc10970dc8c1761e20f375d76f7afcd20f6c2dcb81762c38c69c4f213a0a54585d5d712318b9e018056a74c1b33def51eaea1afc0c04737770d78c045191fb3732a8752f30ebf090cb9ac30d469e35b46d9f344ae6761d3eedc90fef8199faeec83a075797e5fd0cf38aa0b5e1fa866672026735dbe65a567cd76fb0af0ff3a21079a0d8dfb2943ed925ac65fbb7b728e52ea984e95df9decea889027d346d5ef2c5f8ed079bed5a37dc55ef0d7c48d2da9eb70f9dfdb3087fe6589af52466bc31735889e6bb33c125bce92e39a5e04d5cc67f26cef0f544459dc4c6f7a3df5eab116d4108dd04cf6f66a97fd85b143af0/95/854x480_1354936/index.m3u8
+#EXTINF:-1, 131 -CANAL ENERGY TV
+https://59ec5453559f0.streamlock.net/energytvlatino/smil:VIVALIVETV/chunklist_w2070027214_b1896000.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 132 -CANAL PLOUS TV
+https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1355807388.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 133 -CANAL BEST CLASICS TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 134 -CANAL RETRO X PLUS TV
+https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 135 -CANAL RETRO X TV
+https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 136 -CANAL ESPORTS MAX TV
+https://streamyes.alsolnet.com/esportsmax/live/chunklist_w1356634013.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 137 -CANAL CATORCE TV
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 138 -CANAL PLAY TERROR TV
+https://stream-us-east-1.getpublica.com/cl/260428d7obr6o7n0ci89e2l0ig/1920x1080_2786366_0_f.m3u8?i=1187_12966
+#EXTINF:-1, 139 -CANAL PLAY CLASSIC TV
+https://video02.logicahost.com.br/classic/classic/chunklist_w801062096.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1, 140 -CANAL LTV NY TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w1611007609.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 
 
