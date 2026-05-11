@@ -349,5 +349,19 @@ https://stream-us-east-1.getpublica.com/cl/260428d7oeocro370fjb9kfil0/1920x1080_
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
 #EXTINF:-1, 174 -CANAL IBCK TV
 https://somosnoticiasnetwork.com:3269/hybrid/play.m3u8
-
-
+#EXTINF:-1, 175 -CANAL UPEA TV
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1, 176 -CANAL A TV
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w681176820.m3u8
+#EXTINF:-1, 177 -CANAL CTV BOLIVIA TV
+https://live.ctvbolivia.com/hls/ctv.m3u8
+#EXTINF:-1, 178 -CANAL TV3 COLOMBIA TV
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+#EXTINF:-1, 179 -CANAL BENDICION CHANNEL TV
+https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, 180 -CANAL BUM CHANNEL TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1, 181 -CANAL 8 TV
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1, 182 -CANAL 2 YOPAL TV
+http://131.221.41.94/hls/canal2.m3u8
