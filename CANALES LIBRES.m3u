@@ -19,8 +19,8 @@ https://v2.tustreaming.cl/maulevisiontv/index.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1, 10 - CANAL CREO TV
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=14756568
-#EXTINF:-1, 11 - CANAL AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/7WvLeeTZY40nYo_5DSY4zw/1776696870/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
+#EXTINF:-1, 11 - CANAL UNO COLOMBIA
+https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_1000.m3u8?aid=5a1dafd63910b04010338038&pid=JgrWG4W6t2zjUOX1bDj54GA1aTEEY83N&sid=wx3Ug61fElGUIodk1k03oXcNAwpquI67&uid=GrYm1DI2zYx3CvHL9xsDmmm1eZkV4g6b&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1779043177281&ot=HREyZmPJE-qOLivfLE_LVQ&proto=https&pz=us
 #EXTINF:-1, 12 - CANAL LATINA TV
 https://live-evg20.tv360.bitel.com.pe/feOO0f8l1l4-xLFxC1-bQA/1776697029/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8
 #EXTINF:-1, 13 - CANAL GLOBAL TV
